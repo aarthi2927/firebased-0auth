@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firebased-0auth/static/css/main.6e336694.css",
+    "main.js": "/firebased-0auth/static/js/main.8868efbc.js",
+    "index.html": "/firebased-0auth/index.html",
+    "main.6e336694.css.map": "/firebased-0auth/static/css/main.6e336694.css.map",
+    "main.8868efbc.js.map": "/firebased-0auth/static/js/main.8868efbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e336694.css",
+    "static/js/main.8868efbc.js"
+  ]
+}
