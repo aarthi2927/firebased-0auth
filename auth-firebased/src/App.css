@@ -1,0 +1,35 @@
+section{
+display: flex;
+flex-direction: column;
+justify-content: center;
+height: 100vh;
+}
+img{
+  width: 30px;
+  object-fit: contain;
+  }
+  .buttonContainer{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:rgb(243, 243, 243);
+    padding: 10px 20px;
+    border-radius:10px;
+    border: 1px solid black;
+      }
+button{
+  border:none;
+  outline: none;
+  background:transparent;
+  cursor: pointer;
+  font-size:20px;
+}
+section > div{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  }
+  h1{
+    text-align: center;
+  }
